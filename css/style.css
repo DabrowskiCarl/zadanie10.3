@@ -1,7 +1,0 @@
-.widthhigh, .container, .container ul li { width: 600px; height: 400px; }
-
-.container { margin: 0 auto; overflow: hidden; }
-
-.container ul { width: 30000px; }
-
-.container ul li { list-style: none; display: inline; }
